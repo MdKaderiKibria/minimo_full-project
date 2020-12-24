@@ -264,6 +264,9 @@ header{
     color: white;
     border: 1px solid #626262;
 }
+.btn button:focus{
+    outline:none;
+}
 
 /* btn end */
 
